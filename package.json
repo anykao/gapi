@@ -1,0 +1,15 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "main": "dist/bundle.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "exec": "node index.js"
+  },
+  "dependencies": {
+    "googleapis": "^16.1.0",
+    "thunky": "^1.0.2"
+  },
+  "devDependencies": {}
+}
